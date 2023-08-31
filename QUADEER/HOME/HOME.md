@@ -2,7 +2,7 @@
 ---
 cssclass: dashboard
 banner: "![[home.jpg]]"
-banner_y: 0.616
+banner_y: 0.768
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
@@ -17,7 +17,7 @@ banner_y: 0.616
 	- [[Yearly Budget]]
 
 - ## 📐M3 
-	- [[Peru]]
+	- [[UNIT 1.canvas|UNIT 1]]
 	- [[Austria]]
 	- [[Texas]]  
 
@@ -29,7 +29,7 @@ banner_y: 0.616
 - ## 🚥SS
 
  # Personal Projects
-- 🏡 Remodeling Projects
+- 🏡 Remodeling Projects :
 	- [[Bathroom Remodel]]
 	- [[Paint entryway]]
 	- [[Research building Garage]] 

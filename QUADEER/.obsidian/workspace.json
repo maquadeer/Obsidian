@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "277f6393b8ab1808",
+        "id": "9c3792464fe876f9",
         "type": "tabs",
         "children": [
           {
-            "id": "6dae11a4e64258b0",
+            "id": "aefda4bb8e37fe3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HOME/HOME.md",
-                "mode": "preview",
-                "source": false
+                "file": "PAPER 3.canvas",
+                "viewState": {
+                  "x": 2436.87768503947,
+                  "y": 2200.275505893273,
+                  "zoom": -1.4705499171655898
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME/HOME.md",
+                "file": "PAPER 3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME/HOME.md",
+                "file": "PAPER 3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME/HOME.md"
+                "file": "PAPER 3.canvas"
               }
             }
           }
@@ -163,13 +166,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6dae11a4e64258b0",
+  "active": "aefda4bb8e37fe3a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "PAPER 2.canvas",
     "HOME/HOME.md",
+    "PAPER 3.canvas",
+    "M3/pics/WhatsApp Image 2023-08-31 at 1.27.30 PM.jpeg",
+    "M3/pics/Screenshot_2023-08-31-13-08-32-80.jpg",
+    "M3/pics/Pasted image 20230831130222.png",
+    "M3/pics/IMG_20230830_141910.jpg",
+    "M3/pics/IMG_20230830_141901.jpg",
+    "M3/pics/IMG_20230830_141852.jpg",
+    "M3/pics/IMG_20230830_141841.jpg",
+    "M3/pics/IMG_20230830_141832.jpg",
+    "M3/pics/IMG_20230830_141810.jpg",
+    "M3/pics/IMG_20230830_141801.jpg",
+    "M3/pics",
+    "5 ways to love PKM more.md",
+    "M3/UNIT 1.canvas",
+    "M3",
     "HOME",
-    "HOME/home.jpg",
     "home.jpg.crdownload",
-    "HOME/home1.jpg",
     "home1.jpg.crdownload",
     "home.jpg.md"
   ]
